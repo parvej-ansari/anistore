@@ -1,0 +1,220 @@
+[
+  {
+    "id": "prod_meesho_1",
+    "name": "Ninja Wheel Dial 360 Rotating Casual Watch (Purple)",
+    "description": "Men's Sport Quartz Watch featuring a unique 360 rotating ninja wheel dial. Crafted from premium stainless steel alloy.",
+    "price": 377,
+    "originalPrice": 400,
+    "image": "https://images.meesho.com/images/products/588397754/pwejy_512.avif?width=512",
+    "affiliateLink": "https://www.meesho.com/search?q=Men's+Sport+Quartz+Watch+Ninja+Wheel+Dial",
+    "platform": "Meesho",
+    "category": "Watches"
+  },
+  {
+    "id": "prod_amazon_1",
+    "name": "GOLDENIZE FASHION Arrow Wheel Dial 360 Rotating Casual Watch",
+    "description": "Men's Sport Quartz Watch featuring a luxury Arrow Wheel Dial and 360 rotating face. Crafted from premium stainless steel alloy.",
+    "price": 869,
+    "originalPrice": 1999,
+    "image": "https://m.media-amazon.com/images/I/71txKyiifqL._SX679_.jpg",
+    "affiliateLink": "https://www.amazon.in/s?k=GOLDENIZE+FASHION+Branded+Men's+Sport+Quartz+Watch+Arrow+Wheel+Dial",
+    "platform": "Amazon",
+    "category": "Watches"
+  },
+  {
+    "id": "prod_meesho_zoro_figure",
+    "name": "One Piece Roronoa Zoro Black Base Action Figure (18cm)",
+    "description": "One Piece Roronoa Zoro Black Base Action Figure Set Height- 18cm Authentic Design, Highly Detailed-Exact Replica of Image (Dual Head Attachments).",
+    "price": 472,
+    "image": "https://images.meesho.com/images/products/408501889/ml5ql_512.avif?width=512",
+    "affiliateLink": "https://www.meesho.com/search?q=One+Piece+Roronoa+Zoro+Black+Base+Action+Figure",
+    "platform": "Meesho",
+    "category": "Figures"
+  },
+  {
+    "id": "prod_amazon_itachi_figure",
+    "name": "Trunkin Uchiha Itachi With Crow Action Figure (25cm)",
+    "description": "Trunkin Rubber Uchiha Itachi Pvc Action Figure Toy | Uchiha Itachi With Crow Collectible | Model Toy Figurine - 25 Cm, Blue, Red.",
+    "price": 2279,
+    "originalPrice": 9999,
+    "image": "https://m.media-amazon.com/images/I/61EbfCSC1-L._SL1141_.jpg",
+    "affiliateLink": "https://www.amazon.in/s?k=Trunkin+Uchiha+Itachi+With+Crow+Collectible",
+    "platform": "Amazon",
+    "category": "Figures"
+  },
+  {
+    "id": "prod_meesho_toji_tshirt",
+    "name": "Jujutsu Kaisen Toji Fushiguro Oversized T-Shirt",
+    "description": "Anime India Jujutsu Kaisen – Toji Fushiguro Cotton Oversized Round Neck Graphic Print Unisex T-shirt for Men and Women.",
+    "price": 410,
+    "image": "https://images.meesho.com/images/products/574906060/pyhv8_512.avif?width=512",
+    "images": [
+      "https://images.meesho.com/images/products/574906060/pyhv8_512.avif?width=512",
+      "https://images.meesho.com/images/products/574906060/t2yr2_512.avif?width=512"
+    ],
+    "affiliateLink": "https://www.meesho.com/search?q=Anime+India+Jujutsu+Kaisen+Toji+Fushiguro+Cotton+Oversized",
+    "platform": "Meesho",
+    "category": "Clothing"
+  },
+  {
+    "id": "prod_meesho_eren_mikasa_tshirt",
+    "name": "Attack on Titan Eren & Mikasa Oversized T-Shirt",
+    "description": "Anime India Attack on Titan – Eren & Mikasa Childhood Cotton Oversized Round Neck Graphic Print Unisex T-shirt for Men and Women.",
+    "price": 589,
+    "originalPrice": 784,
+    "image": "https://images.meesho.com/images/products/596416898/hebth_512.avif?width=512",
+    "images": [
+      "https://images.meesho.com/images/products/596416898/hebth_512.avif?width=512",
+      "https://images.meesho.com/images/products/596416898/dnit5_512.avif?width=512"
+    ],
+    "affiliateLink": "https://www.meesho.com/search?q=Anime+India+Attack+on+Titan+Eren+Mikasa",
+    "platform": "Meesho",
+    "category": "Clothing"
+  },
+  {
+    "id": "prod_meesho_black_anime_tshirt",
+    "name": "Naruto Uzumaki Premium Black Anime T-shirt",
+    "description": "Premium Black Anime Oversize T shirt for Men, Baggy Printed T shirt.",
+    "price": 320,
+    "image": "https://images.meesho.com/images/products/766889582/plpng_512.avif?width=512",
+    "affiliateLink": "https://www.meesho.com/search?q=Premium+Black+Anime+Oversize+T+shirt+for+Men",
+    "platform": "Meesho",
+    "category": "Clothing"
+  },
+  {
+    "id": "prod_meesho_itachi_tshirt",
+    "name": "Itachi Uchiha Naruto Manga Anime T-Shirt",
+    "description": "GARMIN Men Cotton Oversize Tshirts - Itachi Uchiha Naruto Manga Anime.",
+    "price": 260,
+    "image": "https://images.meesho.com/images/products/469345041/mqsio_512.avif?width=512",
+    "affiliateLink": "https://www.meesho.com/search?q=GARMIN+Men+Cotton+Oversize+Tshirts+Itachi+Uchiha",
+    "platform": "Meesho",
+    "category": "Clothing"
+  },
+  {
+    "id": "prod_amazon_naruto_sneakers",
+    "name": "Fans Army Men's Naruto Hokage Casual Sneakers",
+    "description": "Fans Army Men's Naruto Hokage Anime Casual Sneakers. High-quality and stylish footwear for Anime fans.",
+    "price": 2199,
+    "originalPrice": 3000,
+    "image": "https://m.media-amazon.com/images/I/71-ANzvjRtL._SY695_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71-ANzvjRtL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/611myUzD6bL._SY695_.jpg"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Fans+Army+Men's+Naruto+Hokage+Anime+Casual+Sneakers",
+    "platform": "Amazon",
+    "category": "Shoes"
+  },
+  {
+    "id": "prod_meesho_luffy_oversize",
+    "name": "One Piece Luffy Oversize Anime T-Shirt",
+    "description": "MENS OVERSIZE TSHIRT | ONE PIECE | LUFFY| LOOSE & BAGGY FIT | HALF SLEEVE ANIME ROUND NECK TSHIRT.",
+    "price": 199,
+    "image": "https://images.meesho.com/images/products/669786189/meku8_512.avif?width=512",
+    "images": [
+      "https://images.meesho.com/images/products/669786189/meku8_512.avif?width=512",
+      "https://images.meesho.com/images/products/669786189/nxj7s_512.avif?width=512"
+    ],
+    "affiliateLink": "https://www.meesho.com/search?q=MENS+OVERSIZE+TSHIRT+ONE+PIECE+LUFFY",
+    "platform": "Meesho",
+    "category": "Clothing"
+  },
+  {
+    "id": "prod_meesho_fashionable_tshirt",
+    "name": "Fashionable Men Oversized Anime T-shirt",
+    "description": "Fashionable Men Oversized T-shirt.",
+    "price": 229,
+    "image": "https://images.meesho.com/images/products/671174161/k633j_512.avif?width=512",
+    "affiliateLink": "https://www.meesho.com/search?q=Fashionable+Men+Oversized+T-shirt",
+    "platform": "Meesho",
+    "category": "Clothing"
+  },
+  {
+    "id": "prod_amazon_luffy_kids_tshirt",
+    "name": "ON TREND Monkey Luffy Printed T Shirt",
+    "description": "ON TREND Round Neck Half Sleeve Regular fit Polyester Monkey Luffy Anime Printed T Shirt for Boys, Girls and Kids Color-Black.",
+    "price": 253,
+    "originalPrice": 599,
+    "image": "https://m.media-amazon.com/images/I/51ThNRzzdhL.jpg",
+    "affiliateLink": "https://www.amazon.in/s?k=ON+TREND+Round+Neck+Monkey+Luffy+Anime+Printed+T+Shirt",
+    "platform": "Amazon",
+    "category": "Clothing"
+  },
+  {
+    "id": "prod_amazon_offo_sasuke_figure",
+    "name": "Offo Naruto Anime Action Figure – Sasuke Uchiha (10cm)",
+    "description": "Offo Naruto Anime Action Figure – Sasuke Uchiha (10cm) | Premium PVC Model for Home/Office Desk/Study Table | Ideal Gift for Anime Fans, Collectors & Kids | Multi-Color Decor.",
+    "price": 695,
+    "originalPrice": 1999,
+    "image": "https://m.media-amazon.com/images/I/51IyV8K+sLL._SL1024_.jpg",
+    "affiliateLink": "https://www.amazon.in/s?k=Offo+Naruto+Anime+Action+Figure+Sasuke",
+    "platform": "Amazon",
+    "category": "Figures"
+  },
+  {
+    "id": "prod_amazon_anime_figure_dynamic",
+    "name": "Anime Figurine Collectible (Dynamic Pose)",
+    "description": "Action Figure Anime, Anime Figurine Collectible Multicolour Dynamic Pose. Perfect for desktop decoration and anime fans.",
+    "price": 799,
+    "image": "https://m.media-amazon.com/images/I/71aIiSTXzvL._SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.in/s?k=Action+Figure+Anime+Figurine+Collectible",
+    "platform": "Amazon",
+    "category": "Figures"
+  },
+  {
+    "id": "prod_amazon_daiyamondo_figure",
+    "name": "Daiyamondo Premium Anime Action Figure (with Blue Ball)",
+    "description": "Daiyamondo Polyvinyl Chloride Premium Anime Main Character in Action Action Figure- Unleash The Power of Highly Detailed Collectible with Dynamic Pose (with Blue Ball)(18Cm Height)",
+    "price": 625,
+    "image": "https://m.media-amazon.com/images/I/51qVGiojkyL._SL1101_.jpg",
+    "affiliateLink": "https://www.amazon.in/s?k=Daiyamondo+Premium+Anime+Action+Figure",
+    "platform": "Amazon",
+    "category": "Figures"
+  },
+  {
+    "id": "prod_meesho_goku_figure",
+    "name": "DBZ Goku Standing With Flames Action Figure",
+    "description": "DBZ Goku Standing With Flames Action Figure Height-17cm Authentic Design, Highly Detailed-Exact Replica of Image (Without Box).",
+    "price": 376,
+    "image": "https://images.meesho.com/images/products/477413419/gfhlh_512.avif?width=512",
+    "affiliateLink": "https://www.meesho.com/search?q=DBZ+Goku+Standing+With+Flames+Action+Figure",
+    "platform": "Meesho",
+    "category": "Figures"
+  },
+  {
+    "id": "prod_meesho_demonslayer_figure",
+    "name": "Demon Slayer Anime Action Figure Collectible",
+    "description": "Demon Slayer Anime Action Figure Superhero Collectible Merchandise Toys for Kids, Car Dashboard Decor & Gifting Figurines.",
+    "price": 1039,
+    "image": "https://images.meesho.com/images/products/609433233/3gitu_512.avif?width=512",
+    "affiliateLink": "https://www.meesho.com/search?q=Demon+Slayer+Anime+Action+Figure",
+    "platform": "Meesho",
+    "category": "Figures"
+  },
+  {
+    "id": "prod_amazon_aroa_kakashi",
+    "name": "AROA Kakashi Electric Blue Art Analog Watch",
+    "description": "AROA for Men with Kakashi Electric Blue Art Model :BB/60/186 in Black Metal Type Black Metal Strap Analog Blue Dial. Stylish for Boys.",
+    "price": 749,
+    "originalPrice": 1899,
+    "image": "https://m.media-amazon.com/images/I/71jFz8PE1IL._SX679_.jpg",
+    "affiliateLink": "https://www.amazon.in/s?k=AROA+for+Men+with+Kakashi+Electric+Blue+Art+Model",
+    "platform": "Amazon",
+    "category": "Watches"
+  },
+  {
+    "id": "prod_amazon_zoop_naruto",
+    "name": "Zoop Naruto Analogue Watch (Burnt Orange Strap)",
+    "description": "Zoop Naruto Analogue Watch with Beige Case and Burnt Orange Multi Color Strap. Perfect for Anime Lovers, from House of Titan - 16054PP01.",
+    "price": 2495,
+    "image": "https://m.media-amazon.com/images/I/618wf-ZW8kL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/618wf-ZW8kL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ZvIvAxioL._SL1500_.jpg"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Zoop+Naruto+Analogue+Watch",
+    "platform": "Amazon",
+    "category": "Watches"
+  }
+]
